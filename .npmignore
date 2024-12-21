@@ -1,0 +1,15 @@
+src/
+tests/
+.github/
+.vscode/
+coverage/
+docs/
+examples/
+*.test.ts
+*.spec.ts
+tsconfig.json
+.eslintrc
+.prettierrc
+jest.config.js
+.gitignore
+.env* 
